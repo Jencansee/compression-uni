@@ -9,6 +9,10 @@
 -   Реализовать алгоритм сжатия Хаффмана или алгоритм сжатия данных с потерями.
 -   Выполнить сравнение эффективности степени сжатия с исходным файлом и алгоритмов друг с другом (исходный размер/размер сжатых данных).
 
+## Реализованные алгоритмы
+Run-length encoding, Lempel–Ziv–Welch (LZW), JPEG encoding
+
+
 ## Use of html canvas desaturation of image
 
 https://daily-dev-tips.com/posts/vanilla-javascript-canvas-images-to-black-and-white/
