@@ -1,3 +1,5 @@
+![JPEG Encoding photo](showcase.png)
+
 # Compression Algorithms Showcase
 
 ## Что нужно сделать
@@ -11,8 +13,3 @@
 
 ## Реализованные алгоритмы
 Run-length encoding, Lempel–Ziv–Welch (LZW), JPEG encoding
-
-
-## Use of html canvas desaturation of image
-
-https://daily-dev-tips.com/posts/vanilla-javascript-canvas-images-to-black-and-white/
